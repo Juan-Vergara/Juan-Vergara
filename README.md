@@ -40,7 +40,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ## 📜 Proyectos
-- [EcoScan](https://github.com/Juan-Vergara/Repositorio-grupal---Ingenier-a-de-Software-1---2024-2-Grupo-11)
+- [EcoScan](https://github.com/Juan-Vergara/Repositorio-grupal---Ingenier-a-de-Software-1---2024-2-Grupo-11.)
 
 ## 📧 Contacto
 - <jvergaran@unal.edu.co>
