@@ -39,8 +39,12 @@ Here are some ideas to get you started:
   <p>
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
-## 📞 Contacto
-- jvergaran@unal.edu.co 
+## 📜 Proyectos
+
+
+## 📧 Contacto
+- <jvergaran@unal.edu.co>
+ 
 
 
 
