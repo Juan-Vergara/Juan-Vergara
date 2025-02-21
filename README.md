@@ -1,4 +1,4 @@
-## Hola, soy Juan Luis Veraga Novoa 👋
+## Hola, soy Juan Luis Vergara Novoa 👋
 
 <!--
 **Juan-Vergara/Juan-Vergara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
